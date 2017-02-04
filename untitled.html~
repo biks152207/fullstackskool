@@ -23,8 +23,6 @@
     <link rel="stylesheet" href="css/lib/material.css">
     <link rel="stylesheet" href="css/lib/ripples.css">
     <link rel="stylesheet" href="css/base.css" type="text/css">
-
-    <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="css/style-blue.css" type="text/css">
     <link rel="alternate stylesheet" type="text/css" href="css/style-blue.css" title="blue" media="all">
     <link rel="alternate stylesheet" type="text/css" href="css/style-black.css" title="black" media="all">
@@ -34,7 +32,6 @@
     <link rel="alternate stylesheet" type="text/css" href="css/style-pink.css" title="pink" media="all">
     <link rel="alternate stylesheet" type="text/css" href="css/style-purple.css" title="purple" media="all">
     <link rel="alternate stylesheet" type="text/css" href="css/style-red.css" title="red" media="all">
-
     <!-- Slider -->
     <link rel="stylesheet" href="rs-plugin/css/settings.css" type="text/css">
     <link rel="stylesheet" href="showbizpro/css/settings.css" type="text/css" media="screen">
@@ -67,12 +64,17 @@
                                 <button type="button" data-toggle="collapse" data-target="#navbar-collapse" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="#" class="navbar-brand">Fullstack SKool</a></div>
                             <div id="navbar-collapse" class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav">
-                                    <li class="menuItem active"><a href="#wrapper"></a></li>
+                                    <!-- <li class="menuItem active"><a href="#wrapper"></a></li> -->
                                     <li class="menuItem"><a href="#tech1">Technologies</a></li>
-                                    <li class="menuItem"><a href="#curriculum">Curriculum</a></li>
-                                    <li class="menuItem"><a href="#whyus">Why Us?</a></li>
+                                    <!-- <li class="menuItem"><a href="#advert1">Advert</a></li> -->
+                                    <li class="menuItem"><a href="#portfolio">Porto</a></li>
+                                    <!-- <li class="menuItem"><a href="#advert2">Advert2</a></li> -->
+                                    <li class="menuItem"><a href="#wrapper2">nothing</a></li>
+                                    <!-- <li class="menuItem"><a href="#advert3">advert3</a></li> -->
                                     <li class="menuItem"><a href="#price">Price</a></li>
-                                    <li class="menuItem"><a href="#tutor">Tutors</a></li>
+                                    <!-- <li class="menuItem"><a href="#advert4">advert4</a></li> -->
+                                    <li class="menuItem"><a href="#client">client</a></li>
+                                    <!-- <li class="menuItem"><a href="#advert5">advert5</a></li> -->
                                 </ul>
                             </div>
                         </div>
@@ -80,7 +82,7 @@
                 </div>
             </div>
         </section>
-        <!-- <a href=""><img style="position: absolute; top: 0; right: 0; border: 0; z-index:200" src="" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a> -->
+        <!-- <a href="https://github.com/honglio/Diversity"><img style="position: absolute; top: 0; right: 0; border: 0; z-index:200" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a> -->
     </header>
     <main>
         <div id="wrapper">
@@ -97,7 +99,7 @@
                             <div data-x="right" data-hoffset="-100" data-y="center" data-voffset="-50" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:400;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="1000" data-start="1700" data-easing="Back.easeInOut" data-endspeed="300" data-endeasing="Back.easeInOut" style="z-index: 11;" class="tp-caption mediumlarge_light_white customin customout hidden-xs">Learn To javascript</div>
                             <div data-x="right" data-hoffset="-100" data-y="center" data-voffset="0" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:400;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="1000" data-start="2000" data-easing="Back.easeInOut" data-endspeed="300" data-endeasing="Back.easeInOut" style="z-index: 11;" class="tp-caption medium_light_white customin customout hidden-xs">From best around the world </div>
                             <div data-x="right" data-hoffset="-100" data-y="center" data-voffset="60" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:400;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="1000" data-start="2300" data-easing="Back.easeInOut" data-endspeed="300" data-endeasing="Back.easeInOut" style="z-index: 11;" class="tp-caption medium_light_white customin customout hidden-xs">Growing bigger everyday</div>
-                            <div data-x="left" data-hoffset="100" data-y="top" data-voffset="110" data-customin="x:0;y:200;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 0%;" data-customout="x:0;y:200;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 0%;" data-speed="1000" data-start="2300" data-easing="Back.easeInOut" data-endspeed="300" style="z-index: 1;" class="tp-caption medium_light_black customin customout"> <img src="img/theme/slide-four.png" alt="Slide One" ></div>
+                            <div data-x="left" data-hoffset="100" data-y="bottom" data-voffset="110" data-customin="x:0;y:200;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 0%;" data-customout="x:0;y:200;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 0%;" data-speed="1000" data-start="2300" data-easing="Back.easeInOut" data-endspeed="300" style="z-index: 1;" class="tp-caption medium_light_black customin customout"> <img src="img/theme/slide-four.png" alt="Slide One"></div>
                         </li>
                         
                         <!-- <li data-transition="slotzoom-horizontal" data-slotamount="5" data-masterspeed="700"><img src="img/theme/slideback-green.jpg" alt="slidebg3" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
@@ -116,35 +118,39 @@
                 </div>
             </div>
         </div>
-        <div id="quote1">
+        <div id="advert1">
             <div data-speed="10" data-type="background" class="container-fluid modul-bt-one parallax-one">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-four">
                     <!--Advert Module One-->
                     <div class="row">
-                        <div class="col-md-2"></div>
-                        <div class="col-xs-12 col-md-8">
-                            <div class="advert-two-title">
-                                <h1>Quote By some developer</h1>
-                            </div>
-                        </div>
-                        <div class="col-md-2"></div>
+                        <h2>Some Quote by some great developer 1</h2>
                     </div>
+                    <!-- <div class="row">
+                        <div class="col-xs-12 col-md-6 hidden-md hidden-lg">
+                            <div class="advert-one-image"><img src="img/theme/advert1.png" alt="Advert"></div>
+                        </div>
+                        <div class="col-xs-12 col-md-6">
+                            <div class="advert-one">
+                                <h2>Learn to Code with Us</h2>
+                                <p class="advert-one-em">Once you can make your own thing, you can change the world. Join today with us to code and make your future brighter.</p><a class="btn btn-default advert-button-one">试用文件</a><a class="btn btn-primary advert-button-one">下载文件</a></div>
+                        </div>
+                        <div class="col-xs-12 col-md-6 hidden-xs hidden-sm">
+                            <div class="advert-one-image"><img src="img/theme/advert1.png" alt="Advert"></div>
+                        </div>
+                    </div> -->
                 </div>
             </div>
         </div>
+
         <div id="tech1">
             <div class="container-fluid module-background-one modul-bt-one">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-two">
                     <div class="row">
-                        <div class="col-md-2"></div>
-                        <div class="col-xs-12 col-md-8">
-                            <div class="advert-two-title">
-                                <h1>Javascript Technologies</h1>
-                            </div>
-                        </div>
-                        <div class="col-md-2"></div>  
-                    <!-- </div>
-                    <div class="row"> -->
+                        <h1>
+                            Javascript Technologies
+                        </h1>
+                    </div>
+                    <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-3 modul-phone">
                             <div class="modul-services-one mso-icon">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space"><i class="fa fa-rocket fa-2x hi-icon"></i></div>
@@ -174,94 +180,276 @@
                 </div>
             </div>
         </div>
-        <div id="quote2">
+        <div id="advert1">
             <div data-speed="10" data-type="background" class="container-fluid modul-bt-one parallax-one">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-four">
                     <!--Advert Module One-->
+                    <div>
+                        <h1> Quote by person 2</h1>
+                    </div>
+                    <!-- <div class="row">
+                        <div class="col-xs-12 col-md-6 hidden-md hidden-lg">
+                            <div class="advert-one-image"><img src="img/theme/advert1.png" alt="Advert"></div>
+                        </div>
+                        <div class="col-xs-12 col-md-6">
+                            <div class="advert-one">
+                                <h2>也住悲伤贫困</h2>
+                                <p class="advert-one-em">但执法部门希望摩尔人，并ultricies床laoreet的。零售商。埃涅阿斯方便任何人竞争和孩子们。还有，除非和ullamcorper tempor没有喝。</p>
+                                <p>没有键盘，没有药，我的喉咙，NIBH很多弓，猫，它的足球生命本身的恐惧。没有malesuada ullamcorper颤动。没有生命，有一定的蛋白质，现在的作者。 Donec坐阿梅德，consectetur柔和的笑声，需要accumsan Mauris资产。现在和禅宗puruson，只有谁blandit。我们的卡通抱枕DUI元素现场直播。 Aliquamattos feugiat乌仁娜房地产，也不宣传，也不是卡通的临床元素。</p><a class="btn btn-default advert-button-one">试用文件</a><a class="btn btn-primary advert-button-one">下载文件</a></div>
+                        </div>
+                        <div class="col-xs-12 col-md-6 hidden-xs hidden-sm">
+                            <div class="advert-one-image"><img src="img/theme/advert1.png" alt="Advert"></div>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+        <div id="portfolio">
+            <div class="container-fluid module-background-one modul-bt-one">
+                <div class="container modul-space-eight">
                     <div class="row">
                         <div class="col-md-2"></div>
                         <div class="col-xs-12 col-md-8">
                             <div class="advert-two-title">
-                                <h1>Quote 2</h1>
+                                <h1>保护者投资汤料</h1>
+                                <p>明天，但他们错过了宣传。孩子们在沙拉。本场比赛的成员，我拷打接收Laoreet车辆。但是，从生活中某些需要的箭头球员和纯净的，她想要它。</p>
                             </div>
                         </div>
                         <div class="col-md-2"></div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div id="curriculum">
-            <div class="container-fluid module-background-one modul-bt-one">
-                <div class="container modul-space-fifteen">
                     <div class="row">
-                        <div class="col-md-2"></div>
-                        <div class="col-xs-12 col-md-8">
-                            <div class="advert-two-title">
-                                <h1>Our Curriculum</h1>
-                            </div>
-
-                            <div class="tree">
+                        <div class="clearfix"></div>
+                        <!--FILTER CONTROLS-->
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <div class="portfolio-filter-one controls">
                                 <ul>
-                                  <li>
-                                    <a href="#" >Courses</a>
-                                    <ul>
-                                      <li>
-                                        <a href="#">Basic Javascript(Javascript/html/css)</a>
-                                      </li>
-                                      <li>
-                                        <a href="#">Advanced Javascript</a>
-                                        <ul>
-                                          <li><a href="#">AngularJS</a>
-                                            <ul>
-                                              <li><a href="">Angular 2</a></li>
-                                              <li><a href="">Nativescript</a></li>
-                                            </ul>
-                                          </li>
-                                          <li>
-                                            <a href="#">ReactJS</a>
-                                          <ul>
-                                            <li><a href="">React/Redux</a></li>
-                                            <li><a href="">React Native</a></li>
-                                          </ul>
-                                          </li>
-                                          
-                                        </ul>
-                                      </li>
-                                    </ul>
-                                  </li>
+                                    <li data-filter="all" class="btn btn-primary filter active">All</li>
+                                    <li data-filter="category_1" class="btn btn-primary filter">Web Design</li>
+                                    <li data-filter="category_2" class="btn btn-primary filter">PSD Design</li>
+                                    <li data-filter="category_3" class="btn btn-primary filter">UI Creative</li>
                                 </ul>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="quote6">
-            <div data-speed="10" data-type="background" class="container-fluid modul-bt-one parallax-one">
-                <div class="container modul-space-fifteen">
-                    <!--Advert Module One-->
-                    <div class="row">
-                        <div class="col-md-2"></div>
-                        <div class="col-xs-12 col-md-8">
-                            <div class="advert-two-title">
-                                <h1>Quote 6</h1>
+                        <!--PORTFOLIO LIST-->
+                        <div id="Grid">
+                            <!--One-->
+                            <div class="col-xs-12 col-sm-12 col-md-4 mix category_1 mix_all">
+                                <div data-cat="1" style="display: inline-block; opacity: 1;" class="portlio-list">
+                                    <div class="grid cs-style-1">
+                                        <figure><img src="img/theme/p1.jpg" alt="img04" class="portlio-list-img">
+                                            <figcaption>
+                                                <div class="image-buttons"><a data-toggle="modal" data-target="#view-portfolio-one" class="btn btn-primary"><i class="fa fa-camera"></i></a><a class="btn btn-primary"><i class="fa fa-plus"></i></a></div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <h6>游戏Matti</h6>
+                                    <p>Web Design</p>
+                                </div>
+                            </div>
+                            <!--Two-->
+                            <div class="col-xs-12 col-sm-12 col-md-4 mix category_2 mix_all">
+                                <div data-cat="1" style="display: inline-block; opacity: 1;" class="portlio-list">
+                                    <div class="grid cs-style-1">
+                                        <figure><img src="img/theme/p2.jpg" alt="img04" class="portlio-list-img">
+                                            <figcaption>
+                                                <div class="image-buttons"><a data-toggle="modal" data-target="#view-portfolio-two" class="btn btn-primary"><i class="fa fa-camera"></i></a><a class="btn btn-primary"><i class="fa fa-plus"></i></a></div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <h6>勺子直到米</h6>
+                                    <p>PSD Design</p>
+                                </div>
+                            </div>
+                            <!--Three-->
+                            <div class="col-xs-12 col-sm-12 col-md-4 mix category_3 mix_all">
+                                <div data-cat="1" style="display: inline-block; opacity: 1;" class="portlio-list">
+                                    <div class="grid cs-style-1">
+                                        <figure><img src="img/theme/p3.jpg" alt="img04" class="portlio-list-img">
+                                            <figcaption>
+                                                <div class="image-buttons"><a data-toggle="modal" data-target="#view-portfolio-three" class="btn btn-primary"><i class="fa fa-camera"></i></a><a class="btn btn-primary"><i class="fa fa-plus"></i></a></div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <h6>投资压力</h6>
+                                    <p>UI Creative</p>
+                                </div>
+                            </div>
+                            <!--Four-->
+                            <div class="col-xs-12 col-sm-12 col-md-4 mix category_1 mix_all">
+                                <div data-cat="1" style="display: inline-block; opacity: 1;" class="portlio-list">
+                                    <div class="grid cs-style-1">
+                                        <figure><img src="img/theme/p4.jpg" alt="img04" class="portlio-list-img">
+                                            <figcaption>
+                                                <div class="image-buttons"><a data-toggle="modal" data-target="#view-portfolio-four" class="btn btn-primary"><i class="fa fa-camera"></i></a><a class="btn btn-primary"><i class="fa fa-plus"></i></a></div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <h6>加州旅馆</h6>
+                                    <p>Web Design</p>
+                                </div>
+                            </div>
+                            <!--Five-->
+                            <div class="col-xs-12 col-sm-12 col-md-4 mix category_2 mix_all">
+                                <div data-cat="1" style="display: inline-block; opacity: 1;" class="portlio-list">
+                                    <div class="grid cs-style-1">
+                                        <figure><img src="img/theme/p5.jpg" alt="img04" class="portlio-list-img">
+                                            <figcaption>
+                                                <div class="image-buttons"><a data-toggle="modal" data-target="#view-portfolio-five" class="btn btn-primary"><i class="fa fa-camera"></i></a><a class="btn btn-primary"><i class="fa fa-plus"></i></a></div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <h6>但它是明智的</h6>
+                                    <p>PSD Design</p>
+                                </div>
+                            </div>
+                            <!--Six-->
+                            <div class="col-xs-12 col-sm-12 col-md-4 mix category_3 mix_all">
+                                <div data-cat="1" style="display: inline-block; opacity: 1;" class="portlio-list">
+                                    <div class="grid cs-style-1">
+                                        <figure><img src="img/theme/p6.jpg" alt="img04" class="portlio-list-img">
+                                            <figcaption>
+                                                <div class="image-buttons"><a data-toggle="modal" data-target="#view-portfolio-six" class="btn btn-primary"><i class="fa fa-camera"></i></a><a class="btn btn-primary"><i class="fa fa-plus"></i></a></div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                    <h6>复仇者联盟</h6>
+                                    <p>UI Creative</p>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-2"></div>
+                    </div>
+                    <!--One Modal Box-->
+                    <div id="view-portfolio-one" tabindex="-1" role="dialog" aria-hidden="true" class="modal fade">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close">×</button>
+                                    <h4 class="modal-title">作品标题</h4></div>
+                                <div class="modal-body"><img src="img/theme/p1.jpg" alt="img04" class="portlio-list-img"></div>
+                                <div class="modal-footer"><a href="#fakelink" class="btn btn-default"><span class="fui-googleplus"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-facebook"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-twitter"></span></a>
+                                    <button type="button" data-dismiss="modal" class="btn btn-default">关闭</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Two Modal Box-->
+                    <div id="view-portfolio-two" tabindex="-1" role="dialog" aria-hidden="true" class="modal fade">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close">×</button>
+                                    <h4 class="modal-title">作品标题</h4></div>
+                                <div class="modal-body"><img src="img/theme/p2.jpg" alt="img04" class="portlio-list-img"></div>
+                                <div class="modal-footer"><a href="#fakelink" class="btn btn-default"><span class="fui-googleplus"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-facebook"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-twitter"></span></a>
+                                    <button type="button" data-dismiss="modal" class="btn btn-default">关闭</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Three Modal Box-->
+                    <div id="view-portfolio-three" tabindex="-1" role="dialog" aria-hidden="true" class="modal fade">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close">×</button>
+                                    <h4 class="modal-title">作品标题</h4></div>
+                                <div class="modal-body"><img src="img/theme/p3.jpg" alt="img04" class="portlio-list-img"></div>
+                                <div class="modal-footer"><a href="#fakelink" class="btn btn-default"><span class="fui-googleplus"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-facebook"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-twitter"></span></a>
+                                    <button type="button" data-dismiss="modal" class="btn btn-default">关闭</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Four Modal Box-->
+                    <div id="view-portfolio-four" tabindex="-1" role="dialog" aria-hidden="true" class="modal fade">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close">×</button>
+                                    <h4 class="modal-title">作品标题</h4></div>
+                                <div class="modal-body"><img src="img/theme/p4.jpg" alt="img04" class="portlio-list-img"></div>
+                                <div class="modal-footer"><a href="#fakelink" class="btn btn-default"><span class="fui-googleplus"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-facebook"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-twitter"></span></a>
+                                    <button type="button" data-dismiss="modal" class="btn btn-default">关闭</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Five Modal Box-->
+                    <div id="view-portfolio-five" tabindex="-1" role="dialog" aria-hidden="true" class="modal fade">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close">×</button>
+                                    <h4 class="modal-title">作品标题</h4></div>
+                                <div class="modal-body"><img src="img/theme/p5.jpg" alt="img04" class="portlio-list-img"></div>
+                                <div class="modal-footer"><a href="#fakelink" class="btn btn-default"><span class="fui-googleplus"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-facebook"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-twitter"></span></a>
+                                    <button type="button" data-dismiss="modal" class="btn btn-default">关闭</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Six Modal Box-->
+                    <div id="view-portfolio-six" tabindex="-1" role="dialog" aria-hidden="true" class="modal fade">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" data-dismiss="modal" aria-hidden="true" class="close">×</button>
+                                    <h4 class="modal-title">作品标题</h4></div>
+                                <div class="modal-body"><img src="img/theme/p6.jpg" alt="img04" class="portlio-list-img"></div>
+                                <div class="modal-footer"><a href="#fakelink" class="btn btn-default"><span class="fui-googleplus"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-facebook"></span></a><a href="#fakelink" class="btn btn-default"><span class="fui-twitter"></span></a>
+                                    <button type="button" data-dismiss="modal" class="btn btn-default">关闭</button>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div id="whyus">
+        <div id="advert2">
+            <div data-speed="10" data-type="background" class="container-fluid modul-bt-one parallax-two">
+                <div class="container modul-space-eight">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">
+                            <div class="advert-two-image clearfix"><img src="img/theme/advert6.png" alt="Advert"></div>
+                        </div>
+                        <div class="col-xs-12 col-md-6">
+                            <div class="advert-one advert-phone mso-icon-seven-space">
+                                <h1>也住悲伤贫困</h1>
+                                <!--One-->
+                                <div class="modul-services-two mso-icon-seven">
+                                    <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-four-space pull-left"><i class="fa fa-leaf fa-2x hi-icon"></i></div>
+                                    <p><strong>采访中，甚至成员</strong></p>
+                                    <p>你需要你的胡斯托。Quisque ornareviéndose为方便起见，使用pentumos或融资的任何酱沙拉。</p>
+                                </div>
+                                <div class="clearfix"></div>
+                                <!--Two-->
+                                <div class="modul-services-two mso-icon-seven">
+                                    <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-four-space pull-left"><i class="fa fa-plane fa-2x hi-icon"></i></div>
+                                    <p><strong>采访中，甚至成员</strong></p>
+                                    <p>你需要你的胡斯托。Quisque ornareviéndose为方便起见，使用pentumos或融资的任何酱沙拉。</p>
+                                </div>
+                                <div class="clearfix"></div>
+                                <!--Three-->
+                                <div class="modul-services-two mso-icon-seven">
+                                    <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-four-space pull-left"><i class="fa fa-comments fa-2x hi-icon"></i></div>
+                                    <p><strong>采访中，甚至成员</strong></p>
+                                    <p>你需要你的胡斯托。Quisque ornareviéndose为方便起见，使用pentumos或融资的任何酱沙拉。</p>
+                                </div>
+                                <div class="clearfix"></div><a class="btn btn-default advert-button-seven">购买服务</a><a class="btn btn-primary advert-button-seven">下载软件</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="wrapper2">
             <div class="container-fluid module-background-one modul-bt-one">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-eight">
                     <div class="row">
                         <div class="col-md-2"></div>
                         <div class="col-xs-12 col-md-8">
                             <div class="advert-two-title">
-                                <h1>Why Us ??</h1>
-                                <p> There are many others with promise of the sure shot Learning facility. The the question remain, Why us?</p>
-                            </div>
+                                <h1>保护者投资汤料</h1>
+                                <p>明天，但他们错过了宣传。孩子们在沙拉。本场比赛的成员，我拷打接收Laoreet车辆。但是，从生活中某些需要的箭头球员和纯净的，她想要它。</p><a class="btn btn-default advert-button-nine">购买服务</a><a class="btn btn-primary advert-button-nine">下载软件</a></div>
                         </div>
                         <div class="col-md-2"></div>
                         <div class="clearfix"></div>
@@ -289,105 +477,166 @@
                 </div>
             </div>
         </div>
-        <div id="quote3">
+        <div id="advert3">
             <div data-speed="15" data-type="background" class="container-fluid modul-bt-one parallax-three">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-eight">
                     <div class="row">
-                        <div class="col-md-2"></div>
-                        <div class="col-xs-12 col-md-8">
-                            <div class="advert-two-title">
-                                <h1>Quote 3</h1>
-                            </div>
+                        <div class="col-xs-12 col-md-6">
+                            <div class="advert-two-image clearfix"><img src="img/theme/advert4.png" alt="Advert"></div>
                         </div>
-                        <div class="col-md-2"></div>
+                        <div class="col-xs-12 col-md-6">
+                            <div class="advert-one advert-phone">
+                                <h2>也住悲伤贫困</h2>
+                                <p class="advert-one-em">但执法部门希望摩尔人，并ultricies床laoreet的。零售商。埃涅阿斯方便任何人竞争和孩子们。还有，除非和ullamcorper tempor没有喝。</p>
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-6">
+                                        <ul class="advert-ul-one">
+                                            <li><i class="fa fa-briefcase"></i>马萨被Didipiscing</li>
+                                            <li><i class="fa fa-coffee"></i>怀孕本身</li>
+                                            <li><i class="fa fa-truck"></i>蒙特斯压力</li>
+                                            <li><i class="fa fa-shopping-cart"></i>除非明天软</li>
+                                            <li><i class="fa fa-phone"></i>软明天麦昆</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-md-6">
+                                        <ul class="advert-ul-one">
+                                            <li><i class="fa fa-plane"></i>但请摩尔</li>
+                                            <li><i class="fa fa-shopping-cart"></i>有没有喝户外</li>
+                                            <li><i class="fa fa-bookmark"></i>和谁ullamcorper</li>
+                                            <li><i class="fa fa-cloud"></i>埃涅阿斯和谁</li>
+                                            <li><i class="fa fa-leaf"></i>糖果必比登取消</li>
+                                        </ul>
+                                    </div>
+                                </div><a class="btn btn-default advert-button-one">购买服务</a></div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
         <div id="price">
             <div class="container-fluid module-background-two modul-bt-one">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-two">
                     <div class="row">
                         <!--Services One-->
                         <div class="col-xs-12 col-sm-6 col-md-3 modul-phone">
                             <div class="modul-price-one mso-icon-ten">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space">
                                     <div class="hi-icon">
-                                        <h1>$199</h1>
-                                        <h6>Rate</h6></div>
+                                        <h1>199元</h1>
+                                        <h6>/ 每月</h6></div>
                                 </div>
-                                <h2>One</h2>
+                                <h2>基础版</h2>
                                 <ul>
-                                    <li>Two</li>
-                                </ul><a class="btn btn-default btn-lg">More</a></div>
+                                    <li>虚拟主机</li>
+                                    <li>服务器客户端</li>
+                                    <li>全球域名</li>
+                                    <li>无限的电子邮件</li>
+                                    <li>20GB存储</li>
+                                </ul><a class="btn btn-default btn-lg">立即购买</a></div>
                         </div>
-                        <!--Services One-->
+                        <!--Services Two-->
                         <div class="col-xs-12 col-sm-6 col-md-3 modul-phone">
                             <div class="modul-price-one mso-icon-ten">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space">
                                     <div class="hi-icon">
-                                        <h1>$199</h1>
-                                        <h6>Rate</h6></div>
+                                        <h1>299元</h1>
+                                        <h6>/ 每月</h6></div>
                                 </div>
-                                <h2>One</h2>
+                                <h2>标准版</h2>
                                 <ul>
-                                    <li>Two</li>
-                                </ul><a class="btn btn-default btn-lg">More</a></div>
+                                    <li>虚拟主机</li>
+                                    <li>服务器客户端</li>
+                                    <li>全球域名</li>
+                                    <li>无限的电子邮件</li>
+                                    <li>20GB存储</li>
+                                </ul><a class="btn btn-default btn-lg">立即购买</a></div>
                         </div>
-                        <!--Services One-->
+                        <!--Services Three-->
                         <div class="col-xs-12 col-sm-6 col-md-3 modul-phone">
                             <div class="modul-price-one mso-icon-ten">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space">
                                     <div class="hi-icon">
-                                        <h1>$199</h1>
-                                        <h6>Rate</h6></div>
+                                        <h1>399元</h1>
+                                        <h6>/ 每月</h6></div>
                                 </div>
-                                <h2>One</h2>
+                                <h2>商务版</h2>
                                 <ul>
-                                    <li>Two</li>
-                                </ul><a class="btn btn-default btn-lg">More</a></div>
+                                    <li>虚拟主机</li>
+                                    <li>服务器客户端</li>
+                                    <li>全球域名</li>
+                                    <li>无限的电子邮件</li>
+                                    <li>20GB存储</li>
+                                </ul><a class="btn btn-primary btn-lg">立即购买</a></div>
                         </div>
-                        <!--Services One-->
+                        <!--Services Four-->
                         <div class="col-xs-12 col-sm-6 col-md-3 modul-phone">
                             <div class="modul-price-one mso-icon-ten">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space">
                                     <div class="hi-icon">
-                                        <h1>$199</h1>
-                                        <h6>Rate</h6></div>
+                                        <h1>499元</h1>
+                                        <h6>/ 每月</h6></div>
                                 </div>
-                                <h2>One</h2>
+                                <h2>旗舰版</h2>
                                 <ul>
-                                    <li>Two</li>
-                                </ul><a class="btn btn-default btn-lg">More</a></div>
+                                    <li>虚拟主机</li>
+                                    <li>服务器客户端</li>
+                                    <li>全球域名</li>
+                                    <li>无限的电子邮件</li>
+                                    <li>20GB存储</li>
+                                </ul><a class="btn btn-default btn-lg">立即购买</a></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div id="quote4">
+        <div id="advert4">
             <div data-speed="15" data-type="background" class="container-fluid modul-bt-one parallax-four">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-twelve">
                     <div class="row">
-                        <div class="col-md-2"></div>
-                        <div class="col-xs-12 col-md-8">
-                            <div class="advert-two-title">
-                                <h1>Quote 4</h1>
-                            </div>
+                        <div class="col-xs-12 col-md-6 hidden-md hidden-lg">
+                            <div class="advert-two-image clearfix"><img src="img/theme/advert3.png" alt="Advert"></div>
                         </div>
-                        <div class="col-md-2"></div>
+                        <div class="col-xs-12 col-md-6">
+                            <div class="advert-one advert-phone">
+                                <h2>也住悲伤贫困</h2>
+                                <p class="advert-one-em">但执法部门希望摩尔人，并ultricies床laoreet的。零售商。埃涅阿斯方便任何人竞争和孩子们。还有，除非和ullamcorper tempor没有喝。</p>
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-6">
+                                        <ul class="advert-ul-one">
+                                            <li><i class="fa fa-briefcase"></i>马萨被Didipiscing</li>
+                                            <li><i class="fa fa-coffee"></i>怀孕本身</li>
+                                            <li><i class="fa fa-truck"></i>蒙特斯压力</li>
+                                            <li><i class="fa fa-shopping-cart"></i>除非明天软</li>
+                                            <li><i class="fa fa-phone"></i>软明天麦昆</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-md-6">
+                                        <ul class="advert-ul-one">
+                                            <li><i class="fa fa-plane"></i>但请摩尔</li>
+                                            <li><i class="fa fa-shopping-cart"></i>有没有喝户外</li>
+                                            <li><i class="fa fa-bookmark"></i>和谁ullamcorper</li>
+                                            <li><i class="fa fa-cloud"></i>埃涅阿斯和谁</li>
+                                            <li><i class="fa fa-leaf"></i>糖果必比登取消</li>
+                                        </ul>
+                                    </div>
+                                </div><a class="btn btn-default advert-button-one">购买服务</a></div>
+                        </div>
+                        <div class="col-xs-12 col-md-6 hidden-xs hidden-sm">
+                            <div class="advert-two-image"><img src="img/theme/advert3.png" alt="Advert"></div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div id="tutor">
+        <div id="client">
             <div class="container-fluid module-background-one modul-bt-one">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-eleven">
                     <div class="row">
                         <div class="col-md-2"></div>
                         <div class="col-xs-12 col-md-8">
                             <div class="advert-two-title">
-                                <h1>Our Teams</h1>
-                                <p>We Have Array of World Class Engineers, Developers with Years of Experience Working in different Javascript Technologies.</p>
+                                <h1>保护者投资汤料</h1>
+                                <p>明天，但他们错过了宣传。孩子们在沙拉。本场比赛的成员，我拷打接收Laoreet车辆。但是，从生活中某些需要的箭头球员和纯净的，她想要它。</p>
                             </div>
                         </div>
                         <div class="col-md-2"></div>
@@ -396,32 +645,32 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="mso-icon-nine">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space pull-left"><img src="img/theme/c1.jpg" alt="Client" class="img-circle mso-nine-img hi-icon"></div><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-facebook"></i></a><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-twitter"></i></a><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-linkedin"></i></a>
-                                <h6>John Doe</h6><small>Javascript Tech</small>
-                                <p>Experience and his sayings</p>
+                                <h6>采访中，甚至成员</h6><small>主题森林 / 2013年1月14日</small>
+                                <p>你需要你的胡斯托。 Quisque ornareviéndose为了方便起见，任何使用酱油。</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
                         <div class="col-xs-12 col-md-6">
                             <div class="mso-icon-nine">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space pull-left"><img src="img/theme/c2.jpg" alt="Client" class="img-circle mso-nine-img hi-icon"></div><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-facebook"></i></a><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-twitter"></i></a><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-linkedin"></i></a>
-                                <h6>John Doe</h6><small>Javascript Tech</small>
-                                <p>Experience and his sayings</p>
+                                <h6>采访中，甚至成员</h6><small>图文河 / 2013年1月14日</small>
+                                <p>你需要你的胡斯托。 Quisque ornareviéndose为了方便起见，任何使用酱油。</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
                         <div class="col-xs-12 col-md-6">
                             <div class="mso-icon-nine">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space pull-left"><img src="img/theme/c3.jpg" alt="Client" class="img-circle mso-nine-img hi-icon"></div><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-facebook"></i></a><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-twitter"></i></a><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-linkedin"></i></a>
-                                <h6>John Doe</h6><small>Javascript Tech</small>
-                                <p>Experience and his sayings</p>
+                                <h6>采访中，甚至成员</h6><small>代码峡谷 / 2013年1月14日</small>
+                                <p>你需要你的胡斯托。 Quisque ornareviéndose为了方便起见，任何使用酱油。</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
                         <div class="col-xs-12 col-md-6">
                             <div class="mso-icon-nine">
                                 <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9b mso-icon-space pull-left"><img src="img/theme/c4.jpg" alt="Client" class="img-circle mso-nine-img hi-icon"></div><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-facebook"></i></a><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-twitter"></i></a><a class="btn btn-default btn-sm btn-mso-nine pull-right"><i class="fa fa-linkedin"></i></a>
-                                <h6>John Doe</h6><small>Javascript Tech</small>
-                                <p>Experience and his sayings</p>
+                                <h6>采访中，甚至成员</h6><small>恩到了 / 2013年1月14日</small>
+                                <p>你需要你的胡斯托。 Quisque ornareviéndose为了方便起见，任何使用酱油。</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -429,17 +678,24 @@
                 </div>
             </div>
         </div>
-        <div id="quote5">
+        <div id="advert5">
             <div data-speed="20" data-type="background" class="container-fluid modul-bt-one parallax-five">
-                <div class="container modul-space-fifteen">
+                <div class="container modul-space-seven">
                     <div class="row">
                         <div class="col-md-2"></div>
                         <div class="col-xs-12 col-md-8">
                             <div class="advert-two-title">
-                                <h1>Quote 5</h1>
+                                <h1>保护者投资汤料</h1>
+                                <p>明天，但他们错过了宣传。孩子们在沙拉。本场比赛的成员，我拷打接收Laoreet车辆。但是，从生活中某些需要的箭头球员和纯净的，她想要它。</p>
                             </div>
                         </div>
                         <div class="col-md-2"></div>
+                    </div>
+                    <div class="row">
+                        <!--One-->
+                        <div class="col-md-12 clearfix">
+                            <div class="advert-big-image"><img src="img/theme/advert5.png" alt="Image"></div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -451,24 +707,28 @@
                 <div class="container modul-space-twentysix">
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-4">
-                            <div class="footer-one ">
-                                <h1 style="color:white;">Fullstack Skool</h1>
-                                <p>Learn to code in Javascript</p><a href="#" class="btn btn-footer"><i class="fa fa-facebook"></i></a><a href="#" class="btn btn-footer"><i class="fa fa-twitter"></i></a><a href="#" class="btn btn-footer"><i class="fa fa-linkedin"></i></a><a href="#" class="btn btn-footer"><i class="fa fa-pinterest-square"></i></a></div>
+                            <div class="footer-one"><img src="img/theme/logo-text.png" alt="Logo" class="footer-logo">
+                                <p>生活中，有些保护者adipiscing局的恐惧。直到喝乌仁娜接踵而至并非总是如此，我malesuada酱。无频谱共享的作者可以使用用箭头。整数，除非和化妆。每个悲坐AMET tempor得到的生活。</p><a href="#" class="btn btn-footer"><i class="fa fa-facebook"></i></a><a href="#" class="btn btn-footer"><i class="fa fa-twitter"></i></a><a href="#" class="btn btn-footer"><i class="fa fa-linkedin"></i></a><a href="#" class="btn btn-footer"><i class="fa fa-pinterest-square"></i></a></div>
                         </div>
                         <div class="col-xs-12 col-sm-12 col-md-4">
                             <div class="footer-two">
-                                <h6>Address</h6>
+                                <h6>公司新闻</h6>
                                 <ul>
                                     <li><img src="img/theme/p6.jpg" alt="Image">
-                                        <p><strong>Address 1</strong></p><small><i class="fa fa-calendar-o footer-icon"></i>18 <i class="fa fa-comments footer-icon-two"></i>14</small>
-                                        <p><a href="#">some place</a></p>
+                                        <p><strong>恐惧的生活故事</strong></p><small><i class="fa fa-calendar-o footer-icon"></i>18 一月<i class="fa fa-comments footer-icon-two"></i>14 评论</small>
+                                        <p><a href="#">阅读更多..</a></p>
+                                        <div class="clearfix"></div>
+                                    </li>
+                                    <li><img src="img/theme/p2.jpg" alt="Image">
+                                        <p><strong>担心预算局亿特</strong></p><small><i class="fa fa-calendar-o footer-icon"></i>15 一月<i class="fa fa-comments footer-icon-two"></i>28 评论</small>
+                                        <p><a href="#">阅读更多..</a></p>
                                         <div class="clearfix"></div>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-12 col-md-4">
-                            <!-- <div class="footer-three">
+                            <div class="footer-three">
                                 <h6>我们的投资组合</h6>
                                 <ul>
                                     <li><img src="img/theme/p1.jpg" alt="Image"></li>
@@ -480,7 +740,7 @@
                                     <li><img src="img/theme/p7.jpg" alt="Image"></li>
                                     <li><img src="img/theme/p8.jpg" alt="Image"></li>
                                 </ul>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -495,20 +755,20 @@
         //enabling stickUp on the '.navbar-wrapper' class
         $(function() {
             $('#top-nav').stickUp({
-               parts: {
+                parts: {
                     0: 'wrapper',
-                    1: 'quote1',
-                    2: 'tech1',
-                    3: 'quote2',
-                    4: 'curriculum',
-                    5: 'quote6',
-                    6: 'whyus',
-                    7: 'quote3',
-                    8: 'price',
-                    9: 'quote4',
-                    10: 'tutor',
-                    11: 'quote5'
-                }, itemClass: 'menuItem',
+                    1: 'service1',
+                    2: 'advert1',
+                    3: 'portfolio',
+                    4: 'advert2',
+                    5: 'wrapper2',
+                    6: 'advert3',
+                    7: 'price',
+                    8: 'advert4',
+                    9: 'client',
+                    10: 'advert5'
+                },
+                itemClass: 'menuItem',
                 itemHover: 'active',
                 topMargin: 'auto'
             });
